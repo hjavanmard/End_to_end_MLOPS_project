@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hosseinjavanmard/Downloads/demo_github/End_to_end_MLOPS_project/mlruns/0/51a0c4ef763448caacb66191e90e8331/artifacts
+end_time: 1752877203632
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 51a0c4ef763448caacb66191e90e8331
+run_name: puzzled-colt-532
+run_uuid: 51a0c4ef763448caacb66191e90e8331
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752877201815
+status: 4
+tags: []
+user_id: hosseinjavanmard
