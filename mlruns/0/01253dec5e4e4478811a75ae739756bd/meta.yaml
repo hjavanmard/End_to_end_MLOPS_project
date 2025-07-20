@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hosseinjavanmard/Downloads/demo_github/End_to_end_MLOPS_project/mlruns/0/01253dec5e4e4478811a75ae739756bd/artifacts
+end_time: 1753040400505
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 01253dec5e4e4478811a75ae739756bd
+run_name: persistent-wasp-11
+run_uuid: 01253dec5e4e4478811a75ae739756bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753040397882
+status: 4
+tags: []
+user_id: hosseinjavanmard
